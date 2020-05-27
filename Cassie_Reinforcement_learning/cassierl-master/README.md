@@ -25,7 +25,8 @@ I suggest that we use synaptic package manager(SPM) to add any modules
 -  **No modules named `numpy`**
     Use SPM to add everything related to numpy
 -  **No modules named `cached_property`**
-  
+    pip install cached-property
+
     
 
 
