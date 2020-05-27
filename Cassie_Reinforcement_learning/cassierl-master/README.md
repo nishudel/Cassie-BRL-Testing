@@ -5,6 +5,8 @@ This repository contains reinforcement learning algorithms implemented for Cassi
 ## Installing Libraries
 
 In order to compile the files in `src`, you need to clone [this repository](https://github.com/CassieRL/ThirdParty) which contains third-party libraries and follow the instruction to install.
+Use sudo apt-get install libeigen3-dev  to install eigen lib if the system asks so
+
 
 ## How to Set Paths to Your Own Files
 
