@@ -1,4 +1,4 @@
-# cassierl
+# cassierl THIS IS A COPY OF THE ALREADY CREATED REPOSITORY WHICH I TRIED TO MODIFY AS PER MY REQUIREMENTS 
 
 This repository contains reinforcement learning algorithms implemented for Cassie, a bipedal walking robot of Oregon State University.
 
