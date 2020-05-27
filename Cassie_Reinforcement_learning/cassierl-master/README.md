@@ -17,6 +17,12 @@ In `src/Cassie2d/FilePath.h`,
 - Change the value of `XML_FILE_PATH` to where your `cassie2d_stiff.xml` is.
 
 ## How to Fix Import Errors when `python3 cassie2d.py`
+If you got into import error(s) when trying to run `cassie2d.py`, follow these steps, **depending on what modules you don't have**, to fix the problem:
+
+**No modules named `numpy`**
+
+
+## How to Fix Import Errors when `python3 cassie2d.py`
 
 If you got into import error(s) when trying to run `cassie2d.py`, follow these steps, **depending on what modules you don't have**, to fix the problem:
 
