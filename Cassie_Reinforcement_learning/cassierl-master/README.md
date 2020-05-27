@@ -5,6 +5,7 @@ This repository contains reinforcement learning algorithms implemented for Cassi
 ## Installing Libraries
 
 In order to compile the files in `src`, you need to clone [this repository](https://github.com/CassieRL/ThirdParty) which contains third-party libraries and follow the instruction to install.
+
 Use sudo apt-get install libeigen3-dev  to install eigen lib if the system asks so
 
 
@@ -16,7 +17,7 @@ In `src/Cassie2d/FilePath.h`,
 
 - Change the value of `XML_FILE_PATH` to where your `cassie2d_stiff.xml` is.
 
-## How to Fix Import Errors when `python3 cassie2d.py`
+## How to Fix Import Errors when `python2 cassie2d.py`
 If you got into import error(s) when trying to run `cassie2d.py`, follow these steps, **depending on what modules you don't have**, to fix the problem:
 
 **No modules named `numpy`**
